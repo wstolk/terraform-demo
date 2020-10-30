@@ -5,17 +5,17 @@ to write configuration files to provision infrastructure (IaaS).
 
 The demo showcases a couple of the main principles of Terraform:
 
-* Folder 1: the basics:
+* [Folder 1](/1_basics): the basics:
     * Setup Terraform
     * Work with the CLI
     * Configure provider (AWS in this case)
     * Create your first resources
-* Folder 2: variables:
+* [Folder 2](/2_variables): variables:
     * Adding variables
     * Store variables to a separate file
-* Folder 3: split your setup
+* [Folder 3](/3_split_setup): split your setup
     * Break down the setup in multiple files
-* Folder 4: modules
+* [Folder 4](/4_modules): modules
     * Create a module for the Lambda function
 
 ## Demo project
