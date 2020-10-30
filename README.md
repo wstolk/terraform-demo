@@ -1,7 +1,7 @@
 # Terraform demo with AWS
 
 This is a demo for an internal presentation about how to work with Terraform
-to write configuration files to provision infrastructure (IaaS).
+to write configuration files to provision infrastructure (IaC).
 
 The demo showcases a couple of the main principles of Terraform:
 
@@ -35,7 +35,7 @@ quite some resources:
 * DynamoDB table
 * Lambda function
 * Lambda IAM role
-* Lambda IAM policie
+* Lambda IAM policy
 * CloudWatch logging group
 
 ## Test your setup
