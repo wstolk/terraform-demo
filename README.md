@@ -44,3 +44,5 @@ Once you have successfully deployed your infrastructure, you can test
 it by uploading the example jsonlines file in the `example_data` folder
 to your S3 bucket. This should trigger the Lambda function and insert
 the content of the file to the DynamoDB table.
+
+**Don't forget to destroy your project after you finished the training.**
